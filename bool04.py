@@ -9,6 +9,6 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return a<0, b>0
+    return a>0, b>0
 print(main(-5,4)) 
  
