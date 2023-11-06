@@ -1,4 +1,4 @@
-def toq_son_tekshiruvchi(K):
+def main(K):
     if K%2==1:
         return True
     else:
@@ -6,5 +6,5 @@ def toq_son_tekshiruvchi(K):
     # funksiyani test qilish
     a=7
     b=4
-    print(toq_son_tekshiruvchi(a))  # true
-    print(toq_son_tekshiruvchi(b))  #false
+    print(main(a))  # true
+    print(main(b))  #false
