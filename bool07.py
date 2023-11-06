@@ -1,6 +1,4 @@
 def main(a,b):
-    a=4
-    b=4
     """
     Check the logic "They are not equal"
     Args:
